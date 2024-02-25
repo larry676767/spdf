@@ -18,7 +18,7 @@ SPDF is a simple PDF reader application built using Python and Tkinter. It allow
 ## Usage
 
 1. Clone or download the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install PyPDF2`
 3. Run the `spdf.py` script using Python: `python spdf.py`.
 4. Click on the "Browse" button to select a PDF file.
 5. Click on the "Read PDF" button to read and display the contents of the selected PDF.
@@ -28,7 +28,8 @@ SPDF is a simple PDF reader application built using Python and Tkinter. It allow
 
 ## Screenshots
 
-[Insert screenshots here]
+![image](https://github.com/larry676767/spdf/assets/161197530/dfa5ad94-e5dd-4f7c-b74a-fae6f5f93661)
+
 
 ## Contributing
 
